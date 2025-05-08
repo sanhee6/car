@@ -1,0 +1,224 @@
+[2025-05-03T15:09:42.843Z] GET /api/courses - IP: ::1
+[2025-05-03T15:09:42.843Z] GET / - Status: 304 - Time: 41ms
+[2025-05-03T15:09:43.102Z] GET /favicon.ico - IP: ::1
+[2025-05-03T15:09:43.102Z] GET /favicon.ico - Status: 404 - Time: 0ms
+[2025-05-03T15:10:08.384Z] GET /api/courses - IP: ::ffff:127.0.0.1
+[2025-05-03T15:10:08.384Z] GET / - Status: 304 - Time: 26ms
+[2025-05-03T15:10:08.659Z] GET /favicon.ico - IP: ::ffff:127.0.0.1
+[2025-05-03T15:10:08.659Z] GET /favicon.ico - Status: 404 - Time: 0ms
+[2025-05-03T15:10:20.230Z] GET /api/course_schedules - IP: ::1
+[2025-05-03T15:10:20.230Z] GET / - Status: 200 - Time: 6ms
+[2025-05-03T15:10:20.465Z] GET /favicon.ico - IP: ::1
+[2025-05-03T15:10:20.465Z] GET /favicon.ico - Status: 404 - Time: 0ms
+[2025-05-03T15:10:36.520Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-03T15:10:36.520Z] GET /?page=1&limit=100 - Status: 200 - Time: 2ms
+[2025-05-03T15:54:01.391Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-03T15:54:01.391Z] GET /?page=1&limit=100 - Status: 200 - Time: 41ms
+[2025-05-03T15:54:49.158Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-03T15:54:49.158Z] GET /?page=1&limit=100 - Status: 200 - Time: 3ms
+[2025-05-03T16:03:11.283Z] GET /api/courses?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T16:03:11.283Z] GET /?page=1&limit=50 - Status: 200 - Time: 18ms
+[2025-05-03T16:03:22.040Z] DELETE /api/courses/1 - IP: ::ffff:127.0.0.1
+[2025-05-03T16:03:22.040Z] DELETE /1 - Status: 200 - Time: 10ms
+[2025-05-03T16:03:25.528Z] GET /api/courses?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T16:03:25.528Z] GET /?page=1&limit=50 - Status: 200 - Time: 5ms
+[2025-05-03T16:25:36.059Z] GET /api/exams - IP: ::1
+[2025-05-03T16:25:36.059Z] GET / - Status: 500 - Time: 49ms
+[2025-05-03T16:25:36.308Z] GET /favicon.ico - IP: ::1
+[2025-05-03T16:25:36.308Z] GET /favicon.ico - Status: 404 - Time: 0ms
+[2025-05-03T16:25:50.446Z] GET /api/grades - IP: ::1
+[2025-05-03T16:25:50.446Z] GET / - Status: 500 - Time: 3ms
+[2025-05-03T16:25:50.675Z] GET /favicon.ico - IP: ::1
+[2025-05-03T16:25:50.675Z] GET /favicon.ico - Status: 404 - Time: 0ms
+[2025-05-03T16:34:36.276Z] GET /api/assignments - IP: ::1
+[2025-05-03T16:34:36.276Z] GET / - Status: 500 - Time: 36ms
+[2025-05-03T16:34:36.528Z] GET /favicon.ico - IP: ::1
+[2025-05-03T16:34:36.528Z] GET /favicon.ico - Status: 404 - Time: 1ms
+[2025-05-03T16:35:47.388Z] GET /api/course_schedules - IP: ::1
+[2025-05-03T16:35:47.388Z] GET / - Status: 304 - Time: 37ms
+[2025-05-03T16:35:56.636Z] GET /api/assignments - IP: ::1
+[2025-05-03T16:35:56.636Z] GET / - Status: 500 - Time: 3ms
+[2025-05-03T16:35:56.779Z] GET /favicon.ico - IP: ::1
+[2025-05-03T16:35:56.779Z] GET /favicon.ico - Status: 404 - Time: 0ms
+[2025-05-03T16:47:21.744Z] GET /api/assignments - IP: ::1
+[2025-05-03T16:47:21.744Z] GET / - Status: 500 - Time: 5ms
+[2025-05-03T16:47:21.972Z] GET /favicon.ico - IP: ::1
+[2025-05-03T16:47:21.972Z] GET /favicon.ico - Status: 404 - Time: 0ms
+[2025-05-03T17:20:50.312Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:20:50.312Z] GET /?page=1&limit=50 - Status: 500 - Time: 4ms
+[2025-05-03T17:20:53.784Z] GET /api/exams?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:20:53.784Z] GET /?page=1&limit=50 - Status: 200 - Time: 5ms
+[2025-05-03T17:21:01.581Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:21:01.581Z] GET /student/2023001 - Status: 500 - Time: 3ms
+[2025-05-03T17:21:14.486Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:21:14.486Z] GET /?page=1&limit=100 - Status: 200 - Time: 4ms
+[2025-05-03T17:21:22.735Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:21:22.735Z] GET /?page=1&limit=50 - Status: 500 - Time: 2ms
+[2025-05-03T17:21:27.679Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:21:27.679Z] GET /student/2023001 - Status: 500 - Time: 4ms
+[2025-05-03T17:24:45.849Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:24:45.849Z] GET /?page=1&limit=50 - Status: 500 - Time: 2ms
+[2025-05-03T17:24:49.801Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:24:49.801Z] GET /student/2023001 - Status: 500 - Time: 2ms
+[2025-05-03T17:24:56.540Z] GET /api/exams?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:24:56.540Z] GET /?page=1&limit=50 - Status: 200 - Time: 2ms
+[2025-05-03T17:25:06.155Z] GET /api/courses?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:25:06.155Z] GET /?page=1&limit=50 - Status: 200 - Time: 4ms
+[2025-05-03T17:25:12.918Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:25:12.918Z] GET /?page=1&limit=50 - Status: 500 - Time: 2ms
+[2025-05-03T17:25:22.655Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:25:22.655Z] GET /?page=1&limit=50 - Status: 500 - Time: 2ms
+[2025-05-03T17:26:24.882Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:26:24.882Z] GET /student/2023001 - Status: 500 - Time: 3ms
+[2025-05-03T17:27:44.965Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:27:44.965Z] GET /?page=1&limit=50 - Status: 500 - Time: 3ms
+[2025-05-03T17:31:42.659Z] GET /api/exams - IP: ::1
+[2025-05-03T17:31:42.659Z] GET / - Status: 200 - Time: 37ms
+[2025-05-03T17:31:48.557Z] GET /api/assignments - IP: ::1
+[2025-05-03T17:31:48.557Z] GET / - Status: 200 - Time: 2ms
+[2025-05-03T17:31:48.733Z] GET /favicon.ico - IP: ::1
+[2025-05-03T17:31:48.733Z] GET /favicon.ico - Status: 404 - Time: 0ms
+[2025-05-03T17:31:56.842Z] GET /api/grades - IP: ::1
+[2025-05-03T17:31:56.842Z] GET / - Status: 200 - Time: 2ms
+[2025-05-03T17:31:57.034Z] GET /favicon.ico - IP: ::1
+[2025-05-03T17:31:57.034Z] GET /favicon.ico - Status: 404 - Time: 1ms
+[2025-05-03T17:33:20.216Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:33:20.216Z] GET /?page=1&limit=100 - Status: 200 - Time: 4ms
+[2025-05-03T17:33:23.434Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:33:23.434Z] GET /?page=1&limit=50 - Status: 200 - Time: 2ms
+[2025-05-03T17:33:29.072Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:33:29.072Z] GET /student/2023001 - Status: 200 - Time: 2ms
+[2025-05-03T17:35:22.848Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:35:22.848Z] GET /?page=1&limit=50 - Status: 200 - Time: 2ms
+[2025-05-03T17:54:13.566Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:54:13.566Z] GET /?page=1&limit=50 - Status: 200 - Time: 8ms
+[2025-05-03T17:54:17.079Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:54:17.079Z] GET /student/2023001 - Status: 200 - Time: 6ms
+[2025-05-03T17:55:33.147Z] GET /api/grades - IP: ::1
+[2025-05-03T17:55:33.147Z] GET / - Status: 304 - Time: 7ms
+[2025-05-03T17:55:33.414Z] GET /favicon.ico - IP: ::1
+[2025-05-03T17:55:33.414Z] GET /favicon.ico - Status: 404 - Time: 0ms
+[2025-05-03T17:55:52.718Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T17:55:52.718Z] GET /?page=1&limit=50 - Status: 200 - Time: 1ms
+[2025-05-03T18:01:19.956Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:01:19.956Z] GET /?page=1&limit=50 - Status: 200 - Time: 1ms
+[2025-05-03T18:01:23.121Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:01:23.121Z] GET /student/2023001 - Status: 200 - Time: 3ms
+[2025-05-03T18:01:26.712Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:01:26.712Z] GET /?page=1&limit=50 - Status: 200 - Time: 2ms
+[2025-05-03T18:01:31.057Z] DELETE /api/assignments/1 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:01:31.057Z] DELETE /1 - Status: 200 - Time: 20ms
+[2025-05-03T18:01:34.140Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:01:34.140Z] GET /?page=1&limit=50 - Status: 200 - Time: 3ms
+[2025-05-03T18:01:36.951Z] DELETE /api/assignments/4 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:01:36.951Z] DELETE /4 - Status: 200 - Time: 3ms
+[2025-05-03T18:01:39.585Z] DELETE /api/assignments/2 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:01:39.585Z] DELETE /2 - Status: 200 - Time: 4ms
+[2025-05-03T18:01:41.486Z] DELETE /api/assignments/5 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:01:41.486Z] DELETE /5 - Status: 200 - Time: 3ms
+[2025-05-03T18:01:43.200Z] DELETE /api/assignments/3 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:01:43.200Z] DELETE /3 - Status: 200 - Time: 4ms
+[2025-05-03T18:01:45.195Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:01:45.195Z] GET /?page=1&limit=50 - Status: 200 - Time: 3ms
+[2025-05-03T18:01:55.186Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:01:55.186Z] GET /?page=1&limit=50 - Status: 200 - Time: 1ms
+[2025-05-03T18:01:58.111Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:01:58.111Z] GET /student/2023001 - Status: 200 - Time: 1ms
+[2025-05-03T18:02:21.262Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:02:21.262Z] GET /?page=1&limit=100 - Status: 200 - Time: 7ms
+[2025-05-03T18:02:26.000Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:02:26.000Z] GET /?page=1&limit=50 - Status: 200 - Time: 2ms
+[2025-05-03T18:04:00.722Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:04:00.722Z] GET /?page=1&limit=50 - Status: 200 - Time: 44ms
+[2025-05-03T18:13:38.373Z] GET /api/grades - IP: ::1
+[2025-05-03T18:13:38.373Z] GET / - Status: 200 - Time: 48ms
+[2025-05-03T18:13:38.558Z] GET /favicon.ico - IP: ::1
+[2025-05-03T18:13:38.558Z] GET /favicon.ico - Status: 404 - Time: 1ms
+[2025-05-03T18:13:57.256Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:13:57.256Z] GET /?page=1&limit=50 - Status: 200 - Time: 2ms
+[2025-05-03T18:18:30.023Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:18:30.023Z] GET /?page=1&limit=50 - Status: 200 - Time: 1ms
+[2025-05-03T18:18:53.846Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:18:53.846Z] GET /student/2023001 - Status: 200 - Time: 2ms
+[2025-05-03T18:19:11.246Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:19:11.246Z] GET /?page=1&limit=100 - Status: 200 - Time: 5ms
+[2025-05-03T18:19:13.234Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:19:13.234Z] GET /?page=1&limit=50 - Status: 200 - Time: 2ms
+[2025-05-03T18:19:17.385Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:19:17.385Z] GET /student/2023001 - Status: 200 - Time: 2ms
+[2025-05-03T18:23:57.305Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:23:57.305Z] GET /?page=1&limit=50 - Status: 200 - Time: 2ms
+[2025-05-03T18:24:03.973Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:24:03.973Z] GET /student/2023001 - Status: 200 - Time: 1ms
+[2025-05-03T18:24:43.160Z] GET /api/exams - IP: ::1
+[2025-05-03T18:24:43.160Z] GET / - Status: 304 - Time: 45ms
+[2025-05-03T18:24:43.419Z] GET /favicon.ico - IP: ::1
+[2025-05-03T18:24:43.419Z] GET /favicon.ico - Status: 404 - Time: 0ms
+[2025-05-03T18:24:55.150Z] GET /api/grades - IP: ::1
+[2025-05-03T18:24:55.150Z] GET / - Status: 304 - Time: 3ms
+[2025-05-03T18:24:55.321Z] GET /favicon.ico - IP: ::1
+[2025-05-03T18:24:55.321Z] GET /favicon.ico - Status: 404 - Time: 1ms
+[2025-05-03T18:25:25.421Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:25:25.421Z] GET /?page=1&limit=100 - Status: 200 - Time: 5ms
+[2025-05-03T18:25:30.085Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:25:30.085Z] GET /?page=1&limit=50 - Status: 200 - Time: 3ms
+[2025-05-03T18:25:33.165Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:25:33.165Z] GET /student/2023001 - Status: 200 - Time: 2ms
+[2025-05-03T18:33:49.384Z] GET /api/assignments - IP: ::ffff:127.0.0.1
+[2025-05-03T18:33:49.384Z] GET / - Status: 200 - Time: 3ms
+[2025-05-03T18:34:04.446Z] GET /api/assignments - IP: ::ffff:127.0.0.1
+[2025-05-03T18:34:04.446Z] GET / - Status: 200 - Time: 1ms
+[2025-05-03T18:34:04.454Z] GET /api/grades - IP: ::ffff:127.0.0.1
+[2025-05-03T18:34:04.454Z] GET / - Status: 200 - Time: 2ms
+[2025-05-03T18:34:26.838Z] GET /api/assignments - IP: ::ffff:127.0.0.1
+[2025-05-03T18:34:26.838Z] GET / - Status: 200 - Time: 3ms
+[2025-05-03T18:34:26.844Z] GET /api/grades - IP: ::ffff:127.0.0.1
+[2025-05-03T18:34:26.844Z] GET / - Status: 200 - Time: 1ms
+[2025-05-03T18:35:13.924Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:35:13.924Z] GET /?page=1&limit=50 - Status: 200 - Time: 54ms
+[2025-05-03T18:35:16.811Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:35:16.811Z] GET /student/2023001 - Status: 200 - Time: 3ms
+[2025-05-03T18:35:49.508Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:35:49.508Z] GET /?page=1&limit=100 - Status: 200 - Time: 6ms
+[2025-05-03T18:35:55.572Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:35:55.572Z] GET /?page=1&limit=50 - Status: 200 - Time: 2ms
+[2025-05-03T18:35:58.768Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:35:58.768Z] GET /student/2023001 - Status: 200 - Time: 2ms
+[2025-05-03T18:39:05.254Z] GET /api/assignments - IP: ::ffff:127.0.0.1
+[2025-05-03T18:39:05.254Z] GET / - Status: 200 - Time: 1ms
+[2025-05-03T18:39:05.261Z] GET /api/grades - IP: ::ffff:127.0.0.1
+[2025-05-03T18:39:05.261Z] GET / - Status: 200 - Time: 1ms
+[2025-05-03T18:39:33.197Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:39:33.197Z] GET /?page=1&limit=50 - Status: 200 - Time: 1ms
+[2025-05-03T18:39:33.205Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:39:33.205Z] GET /student/2023001 - Status: 200 - Time: 1ms
+[2025-05-03T18:40:01.991Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:40:01.991Z] GET /?page=1&limit=100 - Status: 200 - Time: 2ms
+[2025-05-03T18:40:05.672Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:40:05.672Z] GET /?page=1&limit=50 - Status: 200 - Time: 1ms
+[2025-05-03T18:41:04.898Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:41:04.898Z] GET /student/2023001 - Status: 200 - Time: 1ms
+[2025-05-03T18:44:14.543Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:44:14.543Z] GET /?page=1&limit=50 - Status: 200 - Time: 2ms
+[2025-05-03T18:44:14.550Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:44:14.550Z] GET /student/2023001 - Status: 200 - Time: 2ms
+[2025-05-03T18:44:54.028Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:44:54.028Z] GET /?page=1&limit=50 - Status: 200 - Time: 1ms
+[2025-05-03T18:51:41.708Z] GET /api/exams - IP: ::1
+[2025-05-03T18:51:41.708Z] GET / - Status: 304 - Time: 43ms
+[2025-05-03T18:51:41.950Z] GET /favicon.ico - IP: ::1
+[2025-05-03T18:51:41.950Z] GET /favicon.ico - Status: 404 - Time: 1ms
+[2025-05-03T18:51:44.672Z] GET /api/grades - IP: ::1
+[2025-05-03T18:51:44.672Z] GET / - Status: 200 - Time: 4ms
+[2025-05-03T18:52:11.747Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:52:11.747Z] GET /?page=1&limit=50 - Status: 200 - Time: 3ms
+[2025-05-03T18:52:14.666Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:52:14.666Z] GET /student/2023001 - Status: 200 - Time: 1ms
+[2025-05-03T18:53:16.820Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-03T18:53:16.820Z] GET /?page=1&limit=100 - Status: 200 - Time: 7ms
+[2025-05-03T19:00:49.430Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T19:00:49.430Z] GET /?page=1&limit=50 - Status: 200 - Time: 1ms
+[2025-05-03T19:00:49.437Z] GET /api/grades/student/2023001 - IP: ::ffff:127.0.0.1
+[2025-05-03T19:00:49.437Z] GET /student/2023001 - Status: 200 - Time: 1ms
+[2025-05-03T19:01:30.923Z] GET /api/assignments?page=1&limit=50 - IP: ::ffff:127.0.0.1
+[2025-05-03T19:01:30.923Z] GET /?page=1&limit=50 - Status: 200 - Time: 1ms

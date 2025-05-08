@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 背景渐变色 -->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#FF6F00"
+                android:endColor="#FFB74D"
+                android:angle="135" />
+            <corners android:radius="12dp" />
+        </shape>
+    </item>
+    
+    <!-- 半透明覆盖层，使文字更易读 -->
+    <item>
+        <shape>
+            <solid android:color="#40000000" />
+            <corners android:radius="12dp" />
+        </shape>
+    </item>
+</layer-list> 

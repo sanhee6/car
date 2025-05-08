@@ -1,0 +1,68 @@
+[2025-05-02T15:24:02.833Z] GET /api/courses - IP: ::1
+[2025-05-02T15:24:02.833Z] GET / - Status: 500 - Time: 54ms
+[2025-05-02T15:24:03.117Z] GET /favicon.ico - IP: ::1
+[2025-05-02T15:24:03.117Z] GET /favicon.ico - Status: 404 - Time: 1ms
+[2025-05-02T15:24:44.269Z] GET /api/course_schedules - IP: ::1
+[2025-05-02T15:24:44.269Z] GET / - Status: 200 - Time: 82ms
+[2025-05-02T15:25:05.498Z] GET /api/course_schedules - IP: ::1
+[2025-05-02T15:25:05.498Z] GET / - Status: 304 - Time: 3ms
+[2025-05-02T15:25:38.340Z] GET /api/courses - IP: ::1
+[2025-05-02T15:25:38.340Z] GET / - Status: 500 - Time: 9ms
+[2025-05-02T15:28:04.798Z] GET /api/courses - IP: ::1
+[2025-05-02T15:28:04.798Z] GET / - Status: 200 - Time: 2ms
+[2025-05-02T15:28:10.361Z] GET /api/course_schedules - IP: ::1
+[2025-05-02T15:28:10.361Z] GET / - Status: 200 - Time: 3ms
+[2025-05-02T15:28:26.692Z] GET /api/course_schedules - IP: ::ffff:127.0.0.1
+[2025-05-02T15:28:26.692Z] GET / - Status: 200 - Time: 2ms
+[2025-05-02T15:28:26.703Z] POST /api/course_schedules - IP: ::ffff:127.0.0.1
+[2025-05-02T15:28:26.703Z] POST / - Status: 201 - Time: 3ms
+[2025-05-02T15:28:26.708Z] PUT /api/course_schedules/16 - IP: ::ffff:127.0.0.1
+[2025-05-02T15:28:26.708Z] PUT /16 - Status: 200 - Time: 4ms
+[2025-05-02T15:28:26.713Z] DELETE /api/course_schedules/16 - IP: ::ffff:127.0.0.1
+[2025-05-02T15:28:26.713Z] DELETE /16 - Status: 200 - Time: 3ms
+[2025-05-02T15:28:26.718Z] GET /api/course_schedules - IP: ::ffff:127.0.0.1
+[2025-05-02T15:28:26.718Z] GET / - Status: 200 - Time: 2ms
+[2025-05-02T15:50:38.302Z] GET /api - IP: ::1
+[2025-05-02T15:50:38.302Z] GET /api - Status: 404 - Time: 21ms
+[2025-05-02T15:50:38.613Z] GET /favicon.ico - IP: ::1
+[2025-05-02T15:50:38.613Z] GET /favicon.ico - Status: 404 - Time: 0ms
+[2025-05-02T16:25:09.573Z] GET /api/courses - IP: ::1
+[2025-05-02T16:25:09.573Z] GET / - Status: 304 - Time: 69ms
+[2025-05-02T16:25:09.885Z] GET /favicon.ico - IP: ::1
+[2025-05-02T16:25:09.885Z] GET /favicon.ico - Status: 404 - Time: 1ms
+[2025-05-02T16:25:20.694Z] GET /api/courses - IP: ::1
+[2025-05-02T16:25:20.694Z] GET / - Status: 304 - Time: 27ms
+[2025-05-02T16:25:26.469Z] GET /api/course_schedules - IP: ::1
+[2025-05-02T16:25:26.469Z] GET / - Status: 304 - Time: 11ms
+[2025-05-02T16:38:15.082Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-02T16:38:15.082Z] GET /?page=1&limit=100 - Status: 200 - Time: 4ms
+[2025-05-02T16:39:50.712Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-02T16:39:50.712Z] GET /?page=1&limit=100 - Status: 200 - Time: 3ms
+[2025-05-02T16:47:05.183Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-02T16:47:05.183Z] GET /?page=1&limit=100 - Status: 200 - Time: 2ms
+[2025-05-02T16:48:07.710Z] POST /api/course_schedules - IP: ::ffff:127.0.0.1
+[2025-05-02T16:48:07.710Z] POST / - Status: 201 - Time: 16ms
+[2025-05-02T16:52:29.516Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-02T16:52:29.516Z] GET /?page=1&limit=100 - Status: 200 - Time: 2ms
+[2025-05-02T16:58:18.013Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-02T16:58:18.013Z] GET /?page=1&limit=100 - Status: 200 - Time: 3ms
+[2025-05-02T16:59:23.502Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-02T16:59:23.502Z] GET /?page=1&limit=100 - Status: 200 - Time: 2ms
+[2025-05-02T17:01:34.417Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-02T17:01:34.417Z] GET /?page=1&limit=100 - Status: 200 - Time: 2ms
+[2025-05-02T17:03:51.537Z] POST /api/course_schedules - IP: ::ffff:127.0.0.1
+[2025-05-02T17:03:51.537Z] POST / - Status: 201 - Time: 2ms
+[2025-05-02T17:03:51.565Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-02T17:03:51.565Z] GET /?page=1&limit=100 - Status: 200 - Time: 3ms
+[2025-05-02T17:07:13.327Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-02T17:07:13.327Z] GET /?page=1&limit=100 - Status: 200 - Time: 3ms
+[2025-05-02T17:10:25.689Z] DELETE /api/course_schedules/18 - IP: ::ffff:127.0.0.1
+[2025-05-02T17:10:25.689Z] DELETE /18 - Status: 200 - Time: 6ms
+[2025-05-02T17:10:25.702Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-02T17:10:25.702Z] GET /?page=1&limit=100 - Status: 200 - Time: 3ms
+[2025-05-02T17:14:33.152Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-02T17:14:33.152Z] GET /?page=1&limit=100 - Status: 200 - Time: 4ms
+[2025-05-02T17:14:53.765Z] POST /api/course_schedules - IP: ::ffff:127.0.0.1
+[2025-05-02T17:14:53.765Z] POST / - Status: 201 - Time: 3ms
+[2025-05-02T17:14:53.817Z] GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+[2025-05-02T17:14:53.817Z] GET /?page=1&limit=100 - Status: 200 - Time: 3ms

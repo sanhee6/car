@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="12dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="2dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tvCourseName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_dark"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            tools:text="高等数学" />
+
+        <TextView
+            android:id="@+id/tvCourseTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:drawableStart="@drawable/ic_time"
+            android:drawablePadding="8dp"
+            android:textColor="@color/text_secondary"
+            android:textSize="14sp"
+            tools:text="周一 第1-2节" />
+
+        <TextView
+            android:id="@+id/tvCourseClassroom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:drawableStart="@drawable/ic_classroom"
+            android:drawablePadding="8dp"
+            android:textColor="@color/text_secondary"
+            android:textSize="14sp"
+            tools:text="教学楼 A101" />
+
+        <TextView
+            android:id="@+id/tvCourseTeacher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:drawableStart="@drawable/ic_teacher"
+            android:drawablePadding="8dp"
+            android:textColor="@color/text_secondary"
+            android:textSize="14sp"
+            tools:text="张教授" />
+
+        <TextView
+            android:id="@+id/tvCourseWeeks"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:drawableStart="@drawable/ic_calendar"
+            android:drawablePadding="8dp"
+            android:textColor="@color/text_secondary"
+            android:textSize="14sp"
+            tools:text="1-16周" />
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView> 

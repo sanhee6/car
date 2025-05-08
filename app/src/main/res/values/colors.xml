@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4CAF50</color>
+    <color name="primary_dark">#388E3C</color>
+    <color name="primary_light">#C8E6C9</color>
+    <color name="accent">#8BC34A</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#AAAAAA</color>
+    <color name="gray_light">#EEEEEE</color>
+    <color name="gray_bg">#F5F5F5</color>
+    <color name="text_dark">#333333</color>
+    <color name="text_gray">#666666</color>
+    <color name="text_light">#999999</color>
+    <color name="cyan_primary">#00BCD4</color>
+    <color name="cyan_dark">#0097A7</color>
+    <color name="cyan_light">#B2EBF2</color>
+    
+    <!-- 添加缺少的颜色 -->
+    <color name="red">#F44336</color>
+    <color name="green_success">#4CAF50</color>
+    <color name="orange_warning">#FF9800</color>
+    <color name="text_secondary">#666666</color>
+    <color name="colorPrimary">@color/primary</color>
+    <color name="colorPrimaryDark">@color/primary_dark</color>
+    <color name="colorAccent">@color/accent</color>
+    <color name="current_day_highlight">#C5E1A5</color>
+    <color name="transparent">#00000000</color>
+    <color name="red_error">#F44336</color>
+    
+    <!-- 课程表颜色 -->
+    <color name="course_red">#F44336</color>
+    <color name="course_purple">#9C27B0</color>
+    <color name="course_blue">#2196F3</color>
+    <color name="course_green">#4CAF50</color>
+    <color name="course_orange">#FF9800</color>
+    <color name="course_deep_orange">#FF5722</color>
+    <color name="course_deep_purple">#673AB7</color>
+    <color name="course_light_blue">#03A9F4</color>
+</resources>

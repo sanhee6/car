@@ -1,0 +1,124 @@
+{
+  "info": {
+    "_postman_id": "f5e6a1c3-7d8e-4b9a-8f9c-1d2e3f4a5b6c",
+    "name": "课程表API",
+    "description": "学生课表管理系统API集合",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "获取所有课程表",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/api/course_schedules?page=1&limit=10",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["api", "course_schedules"],
+          "query": [
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            }
+          ]
+        },
+        "description": "获取分页的课程表信息列表"
+      },
+      "response": []
+    },
+    {
+      "name": "搜索课程表",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/api/course_schedules/search?query=数据库",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["api", "course_schedules", "search"],
+          "query": [
+            {
+              "key": "query",
+              "value": "数据库"
+            }
+          ]
+        },
+        "description": "根据关键词搜索课程表"
+      },
+      "response": []
+    },
+    {
+      "name": "添加课程表",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"course_name\": \"Web开发技术\",\n    \"teacher_name\": \"王教授\",\n    \"class_time\": \"星期2 第3-4节\",\n    \"classroom\": \"信息楼203\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:3000/api/course_schedules",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["api", "course_schedules"]
+        },
+        "description": "向系统中添加新的课程表"
+      },
+      "response": []
+    },
+    {
+      "name": "编辑课程表",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"course_name\": \"Web开发技术（高级）\",\n    \"teacher_name\": \"李教授\",\n    \"class_time\": \"星期3 第5-6节\",\n    \"classroom\": \"信息楼305\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:3000/api/course_schedules/1",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["api", "course_schedules", "1"]
+        },
+        "description": "更新指定ID的课程表信息"
+      },
+      "response": []
+    },
+    {
+      "name": "删除课程表",
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/api/course_schedules/1",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["api", "course_schedules", "1"]
+        },
+        "description": "删除指定ID的课程表"
+      },
+      "response": []
+    }
+  ]
+} 

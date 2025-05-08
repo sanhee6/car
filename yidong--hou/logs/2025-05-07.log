@@ -1,0 +1,380 @@
+2025-05-07 14:05:10 - GET /api/users - IP: ::1
+2025-05-07 14:05:10 - GET /api/users - 状态: 200 - 响应时间: 123ms
+2025-05-07 14:05:10 - GET /favicon.ico - IP: ::1
+2025-05-07 14:05:10 - GET /favicon.ico - 状态: 404 - 响应时间: 2ms
+2025-05-07 14:06:33 - POST /users - IP: ::ffff:127.0.0.1
+2025-05-07 14:06:33 - POST /users - 状态: 404 - 响应时间: 4ms
+2025-05-07 14:06:43 - GET /users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:06:43 - GET /users?page=1&limit=50 - 状态: 404 - 响应时间: 2ms
+2025-05-07 14:06:43 - GET /users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:06:43 - GET /users?page=1&limit=50 - 状态: 404 - 响应时间: 2ms
+2025-05-07 14:06:43 - GET /users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:06:43 - GET /users?page=1&limit=50 - 状态: 404 - 响应时间: 2ms
+2025-05-07 14:06:43 - GET /users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:06:43 - GET /users?page=1&limit=50 - 状态: 404 - 响应时间: 2ms
+2025-05-07 14:06:45 - GET /users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:06:45 - GET /users?page=1&limit=50 - 状态: 404 - 响应时间: 2ms
+2025-05-07 14:06:45 - GET /users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:06:45 - GET /users?page=1&limit=50 - 状态: 404 - 响应时间: 2ms
+2025-05-07 14:06:46 - GET /users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:06:46 - GET /users?page=1&limit=50 - 状态: 404 - 响应时间: 2ms
+2025-05-07 14:06:46 - GET /users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:06:46 - GET /users?page=1&limit=50 - 状态: 404 - 响应时间: 1ms
+2025-05-07 14:20:22 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:20:22 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:20:22 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 40ms
+2025-05-07 14:20:22 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 35ms
+2025-05-07 14:20:41 - POST /api/users - IP: ::ffff:127.0.0.1
+2025-05-07 14:20:41 - POST /api/users - 状态: 400 - 响应时间: 6ms
+2025-05-07 14:21:26 - POST /api/users - IP: ::ffff:127.0.0.1
+2025-05-07 14:21:26 - POST /api/users - 状态: 400 - 响应时间: 2ms
+2025-05-07 14:21:47 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:21:47 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:21:47 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 4ms
+2025-05-07 14:21:47 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 5ms
+2025-05-07 14:21:48 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:21:48 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:21:48 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 7ms
+2025-05-07 14:21:48 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:21:48 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:21:48 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:21:48 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:21:48 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:21:53 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:21:53 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:21:53 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:21:53 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:22:03 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:22:03 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:22:03 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:22:03 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:27:28 - POST /api/users/login - IP: ::ffff:127.0.0.1
+2025-05-07 14:27:28 - POST /api/users/login - 状态: 404 - 响应时间: 3ms
+2025-05-07 14:27:46 - POST /api/users - IP: ::ffff:127.0.0.1
+2025-05-07 14:27:46 - POST /api/users - 状态: 400 - 响应时间: 1ms
+2025-05-07 14:28:10 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:10 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:10 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 4ms
+2025-05-07 14:28:10 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:28:15 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:15 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:15 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:28:15 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:28:16 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:16 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:28:16 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:16 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:28:17 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:17 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:28:17 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:17 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:28:17 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:17 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:17 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:28:17 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:28:18 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:18 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:18 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 4ms
+2025-05-07 14:28:18 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 4ms
+2025-05-07 14:28:19 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:19 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:28:19 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:19 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:28:20 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:20 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:28:20 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:20 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:28:20 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:20 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:20 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:28:20 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:28:21 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:21 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:28:21 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:28:21 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:30:13 - GET /api/users - IP: ::1
+2025-05-07 14:30:13 - GET /api/users - 状态: 304 - 响应时间: 2ms
+2025-05-07 14:32:56 - POST /api/users - IP: ::ffff:127.0.0.1
+2025-05-07 14:32:56 - POST /api/users - 状态: 400 - 响应时间: 1ms
+2025-05-07 14:33:08 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:33:08 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:33:08 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 4ms
+2025-05-07 14:33:08 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:35:55 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:55 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:55 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 5ms
+2025-05-07 14:35:55 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 4ms
+2025-05-07 14:35:56 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:56 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:56 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:35:56 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:35:56 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:56 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:56 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 5ms
+2025-05-07 14:35:56 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 4ms
+2025-05-07 14:35:57 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:57 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:57 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 5ms
+2025-05-07 14:35:57 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 4ms
+2025-05-07 14:35:57 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:57 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:57 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 6ms
+2025-05-07 14:35:57 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:35:58 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:58 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:35:58 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:58 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:35:58 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:58 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:35:58 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:58 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:35:59 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:59 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:35:59 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:35:59 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:00 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:00 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:00 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:00 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:36:00 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:00 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:00 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:00 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:01 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:01 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:01 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:01 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:36:01 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:01 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:01 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 5ms
+2025-05-07 14:36:01 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:36:02 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:02 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:02 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:02 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:02 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:02 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:02 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:02 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:36:03 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:03 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:36:03 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:03 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:36:04 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:04 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:04 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:36:04 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:04 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:04 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:04 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:04 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:04 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:04 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:04 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:36:04 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:36:05 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:05 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:05 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:36:05 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:05 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:05 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:05 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:05 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:06 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:06 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:06 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 4ms
+2025-05-07 14:36:06 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 4ms
+2025-05-07 14:36:06 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:06 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:06 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:06 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:07 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:07 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:07 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:07 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:36:07 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:07 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:07 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:07 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:08 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:08 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:08 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:08 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:36:08 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:08 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:08 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:08 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:09 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:09 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:09 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:36:09 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:36:10 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:10 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:10 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:36:10 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:36:11 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:11 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:11 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 4ms
+2025-05-07 14:36:11 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-07 14:36:11 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:11 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:36:11 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:11 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 14:36:12 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:12 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:12 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:12 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:12 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:12 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:12 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:12 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:12 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:12 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:12 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:12 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:13 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:13 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:13 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:13 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:13 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:13 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:13 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:13 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:14 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:14 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:14 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:14 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:15 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:15 - GET /api/users?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-07 14:36:15 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 2ms
+2025-05-07 14:36:15 - GET /api/users?page=1&limit=50 - 状态: 200 - 响应时间: 1ms
+2025-05-07 17:46:49 - GET /api/assignments - IP: ::1
+2025-05-07 17:46:49 - GET /api/assignments - 状态: 200 - 响应时间: 19ms
+2025-05-07 17:46:49 - GET /favicon.ico - IP: ::1
+2025-05-07 17:46:49 - GET /favicon.ico - 状态: 404 - 响应时间: 1ms
+2025-05-07 18:56:31 - GET /course-schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 18:56:31 - GET /course-schedules?page=1&limit=100 - 状态: 404 - 响应时间: 29ms
+2025-05-07 18:56:34 - GET /course-schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 18:56:34 - GET /course-schedules?page=1&limit=100 - 状态: 404 - 响应时间: 1ms
+2025-05-07 18:56:47 - GET /course-schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 18:56:47 - GET /course-schedules?page=1&limit=100 - 状态: 404 - 响应时间: 1ms
+2025-05-07 18:57:04 - GET /course-schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 18:57:04 - GET /course-schedules?page=1&limit=100 - 状态: 404 - 响应时间: 1ms
+2025-05-07 19:05:30 - GET /api/grades - IP: ::1
+2025-05-07 19:05:30 - GET /api/grades - 状态: 200 - 响应时间: 32ms
+2025-05-07 19:05:30 - GET /favicon.ico - IP: ::1
+2025-05-07 19:05:30 - GET /favicon.ico - 状态: 404 - 响应时间: 3ms
+2025-05-07 19:10:45 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 19:10:45 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 7ms
+2025-05-07 19:10:50 - GET /api/exams?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 19:10:50 - GET /api/exams?page=1 - 状态: 200 - 响应时间: 8ms
+2025-05-07 19:12:07 - GET /api/course-schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 19:12:07 - GET /api/course-schedules?page=1&limit=100 - 状态: 404 - 响应时间: 2ms
+2025-05-07 20:41:12 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 20:41:12 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 59ms
+2025-05-07 20:41:39 - PUT /api/assignments/-1430017578 - IP: ::ffff:127.0.0.1
+2025-05-07 20:41:39 - PUT /api/assignments/-1430017578 - 状态: 400 - 响应时间: 2ms
+2025-05-07 20:41:42 - GET /api/exams?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 20:41:42 - GET /api/exams?page=1 - 状态: 200 - 响应时间: 5ms
+2025-05-07 20:41:56 - GET /api/course-schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 20:41:56 - GET /api/course-schedules?page=1&limit=100 - 状态: 404 - 响应时间: 2ms
+2025-05-07 21:14:48 - GET /api/schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 21:14:48 - GET /api/schedules?page=1&limit=100 - 状态: 404 - 响应时间: 2ms
+2025-05-07 21:22:02 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 21:22:02 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 11ms
+2025-05-07 21:22:04 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 21:22:04 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 3ms
+2025-05-07 21:22:07 - GET /api/exams?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 21:22:07 - GET /api/exams?page=1 - 状态: 200 - 响应时间: 2ms
+2025-05-07 21:22:09 - GET /api/grades?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 21:22:09 - GET /api/grades?page=1 - 状态: 200 - 响应时间: 10ms
+2025-05-07 21:22:16 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 21:22:16 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-07 21:53:54 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 21:53:54 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 7ms
+2025-05-07 21:53:56 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 21:53:56 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 5ms
+2025-05-07 21:53:59 - GET /api/exams?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 21:53:59 - GET /api/exams?page=1 - 状态: 200 - 响应时间: 3ms
+2025-05-07 21:54:01 - GET /api/grades?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 21:54:01 - GET /api/grades?page=1 - 状态: 200 - 响应时间: 4ms
+2025-05-07 21:54:15 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 21:54:15 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 6ms
+2025-05-07 23:07:00 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:07:00 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 28ms
+2025-05-07 23:07:02 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 23:07:02 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 10ms
+2025-05-07 23:11:26 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:11:26 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 6ms
+2025-05-07 23:22:01 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:10.111.80.117
+2025-05-07 23:22:01 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-07 23:22:03 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:10.111.80.117
+2025-05-07 23:22:03 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 20ms
+2025-05-07 23:22:04 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:10.111.80.117
+2025-05-07 23:22:04 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 13ms
+2025-05-07 23:22:05 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:10.111.80.117
+2025-05-07 23:22:05 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 12ms
+2025-05-07 23:22:27 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:10.111.80.117
+2025-05-07 23:22:27 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-07 23:22:28 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:10.111.80.117
+2025-05-07 23:22:28 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-07 23:22:29 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:10.111.80.117
+2025-05-07 23:22:29 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 11ms
+2025-05-07 23:22:30 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:10.111.80.117
+2025-05-07 23:22:30 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-07 23:22:49 - GET /api/course_schedules - IP: ::1
+2025-05-07 23:22:49 - GET /api/course_schedules - 状态: 200 - 响应时间: 5ms
+2025-05-07 23:22:49 - GET /favicon.ico - IP: ::1
+2025-05-07 23:22:49 - GET /favicon.ico - 状态: 404 - 响应时间: 1ms
+2025-05-07 23:27:18 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:27:18 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-07 23:27:20 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:27:20 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 13ms
+2025-05-07 23:27:21 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:27:21 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 2ms
+2025-05-07 23:27:22 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:27:22 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 21ms
+2025-05-07 23:27:25 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 23:27:25 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 5ms
+2025-05-07 23:27:31 - GET /api/exams?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 23:27:31 - GET /api/exams?page=1 - 状态: 200 - 响应时间: 8ms
+2025-05-07 23:27:36 - GET /api/grades?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 23:27:36 - GET /api/grades?page=1 - 状态: 200 - 响应时间: 5ms
+2025-05-07 23:28:13 - GET /api/courses - IP: ::1
+2025-05-07 23:28:13 - GET /api/courses - 状态: 200 - 响应时间: 19ms
+2025-05-07 23:28:13 - GET /favicon.ico - IP: ::1
+2025-05-07 23:28:13 - GET /favicon.ico - 状态: 404 - 响应时间: 2ms
+2025-05-07 23:28:24 - GET /api/exams - IP: ::1
+2025-05-07 23:28:24 - GET /api/exams - 状态: 304 - 响应时间: 7ms
+2025-05-07 23:28:24 - GET /favicon.ico - IP: ::1
+2025-05-07 23:28:24 - GET /favicon.ico - 状态: 404 - 响应时间: 3ms
+2025-05-07 23:28:29 - GET /api/course_schedules - IP: ::1
+2025-05-07 23:28:29 - GET /api/course_schedules - 状态: 304 - 响应时间: 6ms
+2025-05-07 23:28:58 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:28:58 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-07 23:28:59 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:28:59 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-07 23:29:00 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:29:00 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-07 23:29:01 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:29:01 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-07 23:34:34 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:34:34 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 6ms
+2025-05-07 23:34:45 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:34:45 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-07 23:34:55 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:34:55 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-07 23:35:39 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:35:39 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-07 23:42:00 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:42:00 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 7ms
+2025-05-07 23:47:54 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:47:54 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-07 23:48:20 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 23:48:20 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 7ms
+2025-05-07 23:48:25 - GET /api/grades?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 23:48:25 - GET /api/grades?page=1 - 状态: 200 - 响应时间: 5ms
+2025-05-07 23:51:52 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-07 23:51:52 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 7ms
+2025-05-07 23:51:55 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-07 23:51:55 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 6ms

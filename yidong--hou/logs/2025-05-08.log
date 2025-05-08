@@ -1,0 +1,332 @@
+2025-05-08 17:21:01 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 17:21:02 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 56ms
+2025-05-08 17:21:04 - GET /api/exams?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 17:21:04 - GET /api/exams?page=1 - 状态: 200 - 响应时间: 4ms
+2025-05-08 17:21:07 - GET /api/grades?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 17:21:07 - GET /api/grades?page=1 - 状态: 200 - 响应时间: 6ms
+2025-05-08 17:21:10 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 17:21:10 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 10ms
+2025-05-08 18:38:53 - GET /api/users - IP: ::1
+2025-05-08 18:38:53 - GET /api/users - 状态: 401 - 响应时间: 15ms
+2025-05-08 18:38:54 - GET /favicon.ico - IP: ::1
+2025-05-08 18:38:54 - GET /favicon.ico - 状态: 404 - 响应时间: 3ms
+2025-05-08 18:38:57 - GET /api/auth - IP: ::1
+2025-05-08 18:38:57 - GET /api/auth - 状态: 404 - 响应时间: 2ms
+2025-05-08 18:38:57 - GET /favicon.ico - IP: ::1
+2025-05-08 18:38:57 - GET /favicon.ico - 状态: 404 - 响应时间: 1ms
+2025-05-08 18:49:18 - GET /api/auth - IP: ::1
+2025-05-08 18:49:18 - GET /api/auth - 状态: 404 - 响应时间: 2ms
+2025-05-08 18:49:19 - GET /favicon.ico - IP: ::1
+2025-05-08 18:49:19 - GET /favicon.ico - 状态: 404 - 响应时间: 2ms
+2025-05-08 19:05:23 - GET /api/users - IP: ::1
+2025-05-08 19:05:23 - GET /api/users - 状态: 401 - 响应时间: 9ms
+2025-05-08 19:05:23 - GET /favicon.ico - IP: ::1
+2025-05-08 19:05:23 - GET /favicon.ico - 状态: 404 - 响应时间: 2ms
+2025-05-08 19:05:29 - GET /api/auth - IP: ::1
+2025-05-08 19:05:29 - GET /api/auth - 状态: 404 - 响应时间: 3ms
+2025-05-08 19:05:30 - GET /favicon.ico - IP: ::1
+2025-05-08 19:05:30 - GET /favicon.ico - 状态: 404 - 响应时间: 2ms
+2025-05-08 19:09:28 - POST /api/auth/login - IP: ::ffff:127.0.0.1
+2025-05-08 19:09:28 - POST /api/auth/login - 状态: 200 - 响应时间: 78ms
+2025-05-08 19:09:28 - POST /api/auth/register - IP: ::ffff:127.0.0.1
+2025-05-08 19:09:28 - POST /api/auth/register - 状态: 201 - 响应时间: 55ms
+2025-05-08 19:09:28 - GET /api/users - IP: ::ffff:127.0.0.1
+2025-05-08 19:09:28 - GET /api/users - 状态: 200 - 响应时间: 3ms
+2025-05-08 19:09:28 - POST /api/users - IP: ::ffff:127.0.0.1
+2025-05-08 19:09:28 - POST /api/users - 状态: 201 - 响应时间: 51ms
+2025-05-08 19:09:28 - GET /api/users/5 - IP: ::ffff:127.0.0.1
+2025-05-08 19:09:28 - GET /api/users/5 - 状态: 200 - 响应时间: 2ms
+2025-05-08 19:09:28 - PUT /api/users/5 - IP: ::ffff:127.0.0.1
+2025-05-08 19:09:28 - PUT /api/users/5 - 状态: 200 - 响应时间: 4ms
+2025-05-08 19:09:28 - DELETE /api/users/5 - IP: ::ffff:127.0.0.1
+2025-05-08 19:09:28 - DELETE /api/users/5 - 状态: 200 - 响应时间: 2ms
+2025-05-08 19:37:14 - POST /api/auth/register - IP: ::ffff:127.0.0.1
+2025-05-08 19:37:14 - POST /api/auth/register - 状态: 201 - 响应时间: 53ms
+2025-05-08 19:37:16 - POST /api/auth/register - IP: ::ffff:127.0.0.1
+2025-05-08 19:37:16 - POST /api/auth/register - 状态: 400 - 响应时间: 2ms
+2025-05-08 19:37:16 - POST /api/auth/register - IP: ::ffff:127.0.0.1
+2025-05-08 19:37:16 - POST /api/auth/register - 状态: 400 - 响应时间: 2ms
+2025-05-08 19:37:17 - POST /api/auth/register - IP: ::ffff:127.0.0.1
+2025-05-08 19:37:17 - POST /api/auth/register - 状态: 400 - 响应时间: 1ms
+2025-05-08 19:37:17 - POST /api/auth/register - IP: ::ffff:127.0.0.1
+2025-05-08 19:37:17 - POST /api/auth/register - 状态: 400 - 响应时间: 1ms
+2025-05-08 19:37:17 - POST /api/auth/register - IP: ::ffff:127.0.0.1
+2025-05-08 19:37:17 - POST /api/auth/register - 状态: 400 - 响应时间: 2ms
+2025-05-08 19:37:17 - POST /api/auth/register - IP: ::ffff:127.0.0.1
+2025-05-08 19:37:17 - POST /api/auth/register - 状态: 400 - 响应时间: 2ms
+2025-05-08 19:37:17 - POST /api/auth/register - IP: ::ffff:127.0.0.1
+2025-05-08 19:37:17 - POST /api/auth/register - 状态: 400 - 响应时间: 2ms
+2025-05-08 19:37:18 - POST /api/auth/register - IP: ::ffff:127.0.0.1
+2025-05-08 19:37:18 - POST /api/auth/register - 状态: 400 - 响应时间: 2ms
+2025-05-08 19:38:02 - POST /api/auth/login - IP: ::ffff:127.0.0.1
+2025-05-08 19:38:02 - POST /api/auth/login - 状态: 200 - 响应时间: 51ms
+2025-05-08 19:43:03 - POST /api/auth/login - IP: ::ffff:127.0.0.1
+2025-05-08 19:43:03 - POST /api/auth/login - 状态: 200 - 响应时间: 63ms
+2025-05-08 19:43:05 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 19:43:05 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 10ms
+2025-05-08 19:43:07 - GET /api/exams?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 19:43:07 - GET /api/exams?page=1 - 状态: 200 - 响应时间: 5ms
+2025-05-08 19:43:09 - GET /api/grades?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 19:43:09 - GET /api/grades?page=1 - 状态: 200 - 响应时间: 5ms
+2025-05-08 19:43:14 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 19:43:14 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 6ms
+2025-05-08 19:43:40 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 19:43:40 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 19:43:45 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 19:43:45 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 6ms
+2025-05-08 19:43:49 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 19:43:49 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-08 19:44:05 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 19:44:05 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 19:47:44 - POST /api/auth/login - IP: ::ffff:127.0.0.1
+2025-05-08 19:47:44 - POST /api/auth/login - 状态: 200 - 响应时间: 53ms
+2025-05-08 19:47:44 - GET /api/users?page=1&limit=20 - IP: ::ffff:127.0.0.1
+2025-05-08 19:47:44 - GET /api/users?page=1&limit=20 - 状态: 200 - 响应时间: 2ms
+2025-05-08 19:48:04 - POST /api/users - IP: ::ffff:127.0.0.1
+2025-05-08 19:48:04 - POST /api/users - 状态: 201 - 响应时间: 53ms
+2025-05-08 19:48:28 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 19:48:28 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 19:50:28 - POST /api/auth/login - IP: ::ffff:127.0.0.1
+2025-05-08 19:50:29 - POST /api/auth/login - 状态: 200 - 响应时间: 62ms
+2025-05-08 19:50:34 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 19:50:34 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 5ms
+2025-05-08 19:50:36 - GET /api/exams?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 19:50:36 - GET /api/exams?page=1 - 状态: 200 - 响应时间: 4ms
+2025-05-08 19:50:37 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 19:50:37 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 6ms
+2025-05-08 19:50:43 - GET /api/grades?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 19:50:43 - GET /api/grades?page=1 - 状态: 200 - 响应时间: 2ms
+2025-05-08 19:50:45 - GET /api/grades?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 19:50:45 - GET /api/grades?page=1 - 状态: 200 - 响应时间: 3ms
+2025-05-08 19:50:58 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 19:50:58 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 19:54:47 - GET /api/course_schedules?page=1&limit=10 - IP: ::ffff:127.0.0.1
+2025-05-08 19:54:47 - GET /api/course_schedules?page=1&limit=10 - IP: ::ffff:127.0.0.1
+2025-05-08 19:54:47 - GET /api/course_schedules?page=1&limit=10 - 状态: 200 - 响应时间: 7ms
+2025-05-08 19:54:47 - GET /api/course_schedules?page=1&limit=10 - 状态: 200 - 响应时间: 10ms
+2025-05-08 19:54:50 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 19:54:50 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 7ms
+2025-05-08 19:54:51 - GET /api/course_schedules?page=1&limit=10 - IP: ::ffff:127.0.0.1
+2025-05-08 19:54:51 - GET /api/course_schedules?page=1&limit=10 - 状态: 200 - 响应时间: 5ms
+2025-05-08 19:54:54 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 19:54:54 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 19:54:55 - GET /api/course_schedules?page=1&limit=10 - IP: ::ffff:127.0.0.1
+2025-05-08 19:54:55 - GET /api/course_schedules?page=1&limit=10 - 状态: 200 - 响应时间: 6ms
+2025-05-08 19:55:02 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 19:55:02 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 19:55:05 - GET /api/course_schedules?page=1&limit=10 - IP: ::ffff:127.0.0.1
+2025-05-08 19:55:05 - GET /api/course_schedules?page=1&limit=10 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:02:30 - GET /api/course_schedules?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-08 20:02:30 - GET /api/course_schedules?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-08 20:02:30 - GET /api/course_schedules?page=1&limit=50 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:02:30 - GET /api/course_schedules?page=1&limit=50 - 状态: 200 - 响应时间: 6ms
+2025-05-08 20:02:33 - GET /api/course_schedules?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-08 20:02:33 - GET /api/course_schedules?page=1&limit=50 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:02:34 - GET /api/course_schedules?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-08 20:02:34 - GET /api/course_schedules?page=1&limit=50 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:02:35 - GET /api/course_schedules?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-08 20:02:35 - GET /api/course_schedules?page=1&limit=50 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:02:36 - GET /api/course_schedules?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-08 20:02:36 - GET /api/course_schedules?page=1&limit=50 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:02:36 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:02:36 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:02:37 - GET /api/course_schedules?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-08 20:02:37 - GET /api/course_schedules?page=1&limit=50 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:02:39 - GET /api/course_schedules?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-08 20:02:39 - GET /api/course_schedules?page=1&limit=50 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:02:41 - GET /api/course_schedules?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-08 20:02:41 - GET /api/course_schedules?page=1&limit=50 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:02:42 - GET /api/course_schedules?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-08 20:02:42 - GET /api/course_schedules?page=1&limit=50 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:02:43 - GET /api/course_schedules?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-08 20:02:43 - GET /api/course_schedules?page=1&limit=50 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:03:02 - GET /api/course_schedules?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-08 20:03:02 - GET /api/course_schedules?page=1&limit=50 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:03:14 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:03:14 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:03:14 - GET /api/course_schedules?page=1&limit=50 - IP: ::ffff:127.0.0.1
+2025-05-08 20:03:14 - GET /api/course_schedules?page=1&limit=50 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:06:51 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:06:51 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:06:51 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:06:51 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:06:55 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:06:55 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:06:56 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:06:56 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:06:56 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:06:56 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:06:58 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:06:58 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:07:01 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:07:01 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:07:01 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:07:01 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:07:02 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:07:02 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:07:06 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:07:06 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:07:09 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:07:09 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:07:11 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:07:11 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:07:13 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:07:13 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:20:15 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:20:15 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:20:15 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:20:15 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:20:19 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:20:19 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:20:20 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:20:20 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 6ms
+2025-05-08 20:20:20 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:20:20 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:20:22 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:20:22 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:20:23 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:20:23 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:20:27 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:20:27 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 6ms
+2025-05-08 20:20:33 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:20:33 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:20:42 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:20:42 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:20:46 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:20:46 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:26:19 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:26:19 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:26:19 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:26:19 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:26:22 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:26:22 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:26:23 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:26:23 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:26:24 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:26:24 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:26:26 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:26:26 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:29:33 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:29:33 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:29:33 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:29:33 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:32:50 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:32:50 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:32:50 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:32:50 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:32:55 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 20:32:55 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:32:59 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:32:59 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:33:00 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:33:00 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:33:01 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:33:01 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:33:02 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:33:02 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:33:03 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:33:03 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:33:05 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 20:33:05 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:33:07 - GET /api/grades?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 20:33:07 - GET /api/grades?page=1 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:33:10 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:33:10 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:34:11 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:34:11 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:34:11 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:34:11 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:41:56 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 20:41:56 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 17ms
+2025-05-08 20:42:01 - GET /api/exams?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 20:42:01 - GET /api/exams?page=1 - 状态: 200 - 响应时间: 7ms
+2025-05-08 20:42:37 - GET /api/exams?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 20:42:37 - GET /api/exams?page=1 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:49:59 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:49:59 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:49:59 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 13ms
+2025-05-08 20:49:59 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 12ms
+2025-05-08 20:50:02 - GET /api/courses?page=1&limit=20 - IP: ::ffff:127.0.0.1
+2025-05-08 20:50:02 - GET /api/courses?page=1&limit=20 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:51:22 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:51:22 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:51:22 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:51:22 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 6ms
+2025-05-08 20:51:23 - GET /api/courses?page=1&limit=20 - IP: ::ffff:127.0.0.1
+2025-05-08 20:51:23 - GET /api/courses?page=1&limit=20 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:54:36 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:54:36 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:54:55 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 20:54:55 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 5ms
+2025-05-08 20:55:22 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:55:22 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:55:29 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 20:55:29 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:55:31 - GET /api/exams?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 20:55:31 - GET /api/exams?page=1 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:55:34 - GET /api/grades?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 20:55:34 - GET /api/grades?page=1 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:55:37 - GET /api/grades?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 20:55:37 - GET /api/grades?page=1 - 状态: 200 - 响应时间: 2ms
+2025-05-08 20:55:59 - POST /api/auth/login - IP: ::ffff:127.0.0.1
+2025-05-08 20:55:59 - POST /api/auth/login - 状态: 200 - 响应时间: 64ms
+2025-05-08 20:55:59 - GET /api/users?page=1&limit=20 - IP: ::ffff:127.0.0.1
+2025-05-08 20:55:59 - GET /api/users?page=1&limit=20 - 状态: 200 - 响应时间: 6ms
+2025-05-08 20:56:01 - GET /api/users?page=1&limit=20 - IP: ::ffff:127.0.0.1
+2025-05-08 20:56:01 - GET /api/users?page=1&limit=20 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:56:17 - GET /api/users?page=1&limit=20 - IP: ::ffff:127.0.0.1
+2025-05-08 20:56:17 - GET /api/users?page=1&limit=20 - 状态: 200 - 响应时间: 2ms
+2025-05-08 20:56:26 - GET /api/users?page=1&limit=20 - IP: ::ffff:127.0.0.1
+2025-05-08 20:56:26 - GET /api/users?page=1&limit=20 - 状态: 200 - 响应时间: 2ms
+2025-05-08 20:56:31 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:56:31 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:59:52 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:59:52 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 8ms
+2025-05-08 20:59:55 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:59:55 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:59:57 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:59:57 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 20:59:58 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:59:58 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 20:59:59 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 20:59:59 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 21:00:00 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 21:00:00 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 5ms
+2025-05-08 21:00:05 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 21:00:05 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
+2025-05-08 21:00:07 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 21:00:07 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 21:01:59 - POST /api/auth/login - IP: ::ffff:127.0.0.1
+2025-05-08 21:01:59 - POST /api/auth/login - 状态: 200 - 响应时间: 50ms
+2025-05-08 21:01:59 - GET /api/users?page=1&limit=20 - IP: ::ffff:127.0.0.1
+2025-05-08 21:01:59 - GET /api/users?page=1&limit=20 - 状态: 200 - 响应时间: 3ms
+2025-05-08 21:02:01 - GET /api/users?page=1&limit=20 - IP: ::ffff:127.0.0.1
+2025-05-08 21:02:01 - GET /api/users?page=1&limit=20 - 状态: 200 - 响应时间: 3ms
+2025-05-08 21:02:12 - POST /api/users - IP: ::ffff:127.0.0.1
+2025-05-08 21:02:12 - POST /api/users - 状态: 201 - 响应时间: 58ms
+2025-05-08 21:02:48 - POST /api/auth/login - IP: ::ffff:127.0.0.1
+2025-05-08 21:02:48 - POST /api/auth/login - 状态: 401 - 响应时间: 50ms
+2025-05-08 21:02:54 - POST /api/auth/login - IP: ::ffff:127.0.0.1
+2025-05-08 21:02:54 - POST /api/auth/login - 状态: 200 - 响应时间: 52ms
+2025-05-08 21:02:56 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 21:02:56 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 21:02:57 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 21:02:57 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 3ms
+2025-05-08 21:02:59 - GET /api/exams?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 21:02:59 - GET /api/exams?page=1 - 状态: 200 - 响应时间: 2ms
+2025-05-08 21:03:01 - GET /api/grades?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 21:03:01 - GET /api/grades?page=1 - 状态: 200 - 响应时间: 2ms
+2025-05-08 21:03:05 - GET /api/courses?page=1&limit=20 - IP: ::ffff:127.0.0.1
+2025-05-08 21:03:05 - GET /api/courses?page=1&limit=20 - 状态: 200 - 响应时间: 3ms
+2025-05-08 21:03:07 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 21:03:07 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 21:05:06 - POST /api/auth/register - IP: ::ffff:127.0.0.1
+2025-05-08 21:05:06 - POST /api/auth/register - 状态: 201 - 响应时间: 54ms
+2025-05-08 21:05:31 - POST /api/auth/login - IP: ::ffff:127.0.0.1
+2025-05-08 21:05:31 - POST /api/auth/login - 状态: 200 - 响应时间: 50ms
+2025-05-08 21:05:35 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 21:05:35 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 3ms
+2025-05-08 21:05:40 - GET /api/assignments?page=1 - IP: ::ffff:127.0.0.1
+2025-05-08 21:05:40 - GET /api/assignments?page=1 - 状态: 200 - 响应时间: 4ms
+2025-05-08 21:05:43 - GET /api/course_schedules?page=1&limit=100 - IP: ::ffff:127.0.0.1
+2025-05-08 21:05:43 - GET /api/course_schedules?page=1&limit=100 - 状态: 200 - 响应时间: 4ms
